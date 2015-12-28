@@ -1,7 +1,7 @@
 # blockscan
 Block Website Scanners by .htaccess
 
-´´´´´´
+```
 RewriteEngine On
 
 #Block bad bots
@@ -101,4 +101,4 @@ RewriteEngine On
 	RewriteRule ^.* - [F,L]
 
 </IfModule>
-´´´´´´
+```
